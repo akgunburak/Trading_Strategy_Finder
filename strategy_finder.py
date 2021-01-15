@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Jan 10 18:47:52 2021
-
-@author: burak
-"""
-
 
 import pandas as pd
 import yfinance as yf 

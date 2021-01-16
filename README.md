@@ -19,4 +19,4 @@ Implementation.py file. Just in case, the same file is available [**here**](http
 * Indicators can be calculated by using a library (e.g Ta-Lib)
 * The main strategy is based on the decision of the absolute majority of indicators. It can be improved by assigning different weights to each of them.
 * The number of backtest ratios or graphs can be increased.
-* Current version of strategy may lead variety of bias (e.g survivorship bias) since it picks stocks without testing. Incorporating structures like cross validation may be useful.
+* The current version of strategy may lead to a variety of biases (e.g survivorship bias) since it picks stocks without testing. Incorporating structures like cross-validation may be useful.
